@@ -19,7 +19,7 @@ export default function Navbar() {
         {/* Left: Logo */}
         <div className="flex items-center space-x-2">
           <div className="w-6 h-6 rounded-full bg-blue-500 flex items-center justify-center font-bold">
-            <span className="text-xs">P</span>
+            <span className="text-xs">T</span>
           </div>
           <h1 className="text-lg font-semibold tracking-wide">TERRALOGIC</h1>
         </div>
