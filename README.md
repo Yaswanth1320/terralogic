@@ -71,7 +71,7 @@ A modern, AI-powered project management dashboard built with React and Express.j
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Yaswanth1320/terralogic.git
    cd hackton
    ```
 
